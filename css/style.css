@@ -2,6 +2,16 @@
 
 /* font-family: 'Roboto', sans-serif;
 font-family: 'Merriweather', serif; */
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+h1.h2,
+h3 {
+  font-family: "Merriweather", serif;
+  letter-spacing: 1px;
+  line-height: 1.5;
+}
 
 /* Nav Bar Section */
 .navbar {
